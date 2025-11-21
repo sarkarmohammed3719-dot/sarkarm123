@@ -10,5 +10,11 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "38eebcfb88cf2345",
+        "key": "SRK-3MFV-44N4",
+        "expirydate": "11-20-2028",
+        "Allowoffline": true
     }
 ]
