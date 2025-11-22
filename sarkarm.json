@@ -1,20 +1,13 @@
 [
     {
-        "device_id": "bb0a7f10566ca451",
-        "key": "sarkar12345",
-        "expirydate": "11-23-2025",
+        "device_id": "b89290503351d68c",
+        "key": "barzan12345",
+        "expirydate": "12-23-2025",
         "Allowoffline": true
     },
     {
         "device_id": "38eebcfb88cf2345",
         "key": "key67890",
-        "expirydate": "12-23-2025",
-        "Allowoffline": true
-    }
-]
-{،
-        "device_id": "b89290503351d68c",
-        "key": "key1234",
         "expirydate": "12-23-2025",
         "Allowoffline": true
     }
