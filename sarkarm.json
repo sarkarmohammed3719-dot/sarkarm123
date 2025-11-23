@@ -14,13 +14,13 @@
     {
         "device_id": "ed0bb9703a5349f2",
         "key": "xdr12345",
-        "expirydate": "12-23-2026",
+        "expirydate": "12-23-2025",
         "Allowoffline": true
     },
     {
         "device_id": "bb0a7f10566ca451",
         "key": "sarkar12345",
-        "expirydate": "12-23-2026",
+        "expirydate": "12-23-2025",
         "Allowoffline": true
     }
 ]
