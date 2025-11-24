@@ -22,5 +22,11 @@
         "key": "sarkar12345",
         "expirydate": "12-23-2025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "d08e934a9f328c0d",
+        "key": "hoshang12345",
+        "expirydate": "12-23-2025",
+        "Allowoffline": true
     }
 ]
